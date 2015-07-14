@@ -1,0 +1,52 @@
+body{
+  background-image: url(http://cdn.backgroundhost.com/backgrounds/subtlepatterns/random_grey_variations.png);
+  margin: 0px;
+}
+
+h1{
+  padding-top: 18px;
+  font-size: 54px;
+}
+
+
+h1, h2{
+  text-align: center;
+  background: white;
+  font-family: Lato;
+  margin: 0px;
+  
+}
+
+h2{
+  font-size: 20px;
+  font-family: Merriweather;
+  padding-bottom: 18px;
+
+  
+}
+
+.button{
+  display: inline-block;
+  border: white 2px solid;
+    border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  background-color: white;
+  margin-left: 170px;
+  text-align: center;
+}
+
+.circlink{
+  border-radius: 50%;
+  height: 190px;
+  width: 190px;
+}
+
+
+.videos{
+  display: inline-block;
+  border: white 1px solid;
+  
+}
+
+
